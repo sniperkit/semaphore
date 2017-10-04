@@ -15,6 +15,9 @@ import:
   subpackages:
   - semaphore
 - package: github.com/jsipprell/go-semaphore
+- package: golang.org/x/net
+  subpackages:
+  - context
 - package: github.com/nicholasjackson/bench
   subpackages:
   - semaphore

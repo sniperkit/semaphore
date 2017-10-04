@@ -1,5 +1,5 @@
-hash: f2b3b302d89911f4bc65751a7bee773d06fd2bd1924e9777f06e38f3d1f4af56
-updated: 2017-08-14T16:46:15.384128578Z
+hash: b10041bca574a5ad7d4ff2e50aceb0c8842021a69f0cb97c1ddb782cbdd10acb
+updated: 2017-10-04T15:55:53.337319297+03:00
 imports:
 - name: github.com/abiosoft/semaphore
   version: 9d5d6764eda2187f2a7979395cf2d564f401d0b0
@@ -16,7 +16,7 @@ imports:
 - name: github.com/dexterous/semaphore
   version: c6af5dd4713dbc7d6e2a331aa732d02840863b37
 - name: github.com/dropbox/godropbox
-  version: 908470ffe6093af1a8a15b7d107972a20ccdb9ec
+  version: 236dc4f1e7bfa87718aceb09531e85d3621cf12c
   subpackages:
   - sync2
 - name: github.com/eapache/go-resiliency
@@ -26,7 +26,7 @@ imports:
 - name: github.com/jsipprell/go-semaphore
   version: e3745e5247e61541c301c62ee264e26628c38d1a
 - name: github.com/nicholasjackson/bench
-  version: 7e0e679563e3cdae97ffd630f8dbd51552fe50de
+  version: 39c3cb80881e351daac20452d3985fdbd7a8c5fa
   subpackages:
   - semaphore
 - name: github.com/opencoff/go-lib
@@ -55,4 +55,8 @@ imports:
   - semaphore
 - name: github.com/vada-ir/semaphore
   version: 566ed412777737d9b810f167bdca75fd066d8440
+- name: golang.org/x/net
+  version: a04bdaca5b32abe1c069418fb7088ae607de5bd0
+  subpackages:
+  - context
 testImports: []
