@@ -14,8 +14,8 @@
 
 ## Implementations
 
-All examined packages are presented in [glide.yaml](glide.yaml).
-You can install them by run `glide install`.
+All examined packages are presented in the [glide.yaml](glide.yaml) file.
+You can install them by running the command `glide install`.
 
 - [x] [github.com/abiosoft/semaphore](https://github.com/abiosoft/semaphore)
 - [x] [github.com/andreyvit/sem](https://github.com/andreyvit/sem)
