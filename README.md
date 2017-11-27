@@ -2,6 +2,9 @@
 >
 > Examined articles and packages.
 
+[![Patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/octolab)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](LICENSE)
+
 ## Articles
 
 - [Semaphore Pattern](http://tmrts.com/go-patterns/synchronization/semaphore.html)
@@ -37,3 +40,15 @@ You can install them by running the command `glide install`.
 - [x] [github.com/tmthrgd/go-sem](https://github.com/tmthrgd/go-sem)
 - [x] [github.com/toolkits/concurrent/semaphore](https://github.com/toolkits/concurrent/tree/a4371d7/semaphore)
 - [x] [github.com/vada-ir/semaphore](https://github.com/vada-ir/semaphore)
+
+## Feedback
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kamilsk/semaphore)
+[![@kamilsk](https://img.shields.io/badge/author-%40kamilsk-blue.svg)](https://twitter.com/ikamilsk)
+[![@octolab](https://img.shields.io/badge/sponsor-%40octolab-blue.svg)](https://twitter.com/octolab_inc)
+
+## Notes
+
+- made with ❤️ by [OctoLab](https://www.octolab.org/)
+
+[![Analytics](https://ga-beacon.appspot.com/UA-109817251-2/semaphore/research)](https://github.com/igrigorik/ga-beacon)
