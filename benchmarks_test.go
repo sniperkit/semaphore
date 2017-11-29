@@ -6,6 +6,11 @@ import (
 	"github.com/kamilsk/semaphore"
 )
 
+// TODO
+// - [ ] investigate benchmarks from github.com/marusama/semaphore
+// - [ ] add benchmarks for github.com/dropbox/godropbox
+// - [ ] test overhead of full semaphore
+
 func BenchmarkSemaphore_Acquire(b *testing.B) {
 	sem := semaphore.New(b.N)
 
