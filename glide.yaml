@@ -18,6 +18,8 @@ import:
 - package: golang.org/x/net
   subpackages:
   - context
+- package: github.com/kamilsk/semaphore
+- package: github.com/marusama/semaphore
 - package: github.com/nicholasjackson/bench
   subpackages:
   - semaphore
