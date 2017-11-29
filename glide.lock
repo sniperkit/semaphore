@@ -1,5 +1,5 @@
 hash: 97327151fbb56a08b89f62b105b1557b09a07197b02009d20d8e2ccf91da8b9d
-updated: 2017-11-29T13:44:57.044892+03:00
+updated: 2017-11-29T13:59:21.797905+03:00
 imports:
 - name: github.com/abiosoft/semaphore
   version: 9d5d6764eda2187f2a7979395cf2d564f401d0b0
@@ -16,7 +16,7 @@ imports:
 - name: github.com/dexterous/semaphore
   version: c6af5dd4713dbc7d6e2a331aa732d02840863b37
 - name: github.com/dropbox/godropbox
-  version: 3384358932ed41f065e018278f34ca2367a75100
+  version: cbaa11a299645812c97079a5f6621c1301ee98c6
   subpackages:
   - sync2
 - name: github.com/eapache/go-resiliency
@@ -60,7 +60,7 @@ imports:
 - name: github.com/vada-ir/semaphore
   version: 566ed412777737d9b810f167bdca75fd066d8440
 - name: golang.org/x/net
-  version: 1c05540f6879653db88113bc4a2b70aec4bd491f
+  version: 894f8ed5849b15b810ae41e9590a0d05395bba27
   subpackages:
   - context
 testImports: []
