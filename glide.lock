@@ -1,5 +1,5 @@
-hash: 97327151fbb56a08b89f62b105b1557b09a07197b02009d20d8e2ccf91da8b9d
-updated: 2017-11-29T13:59:21.797905+03:00
+hash: 26379f8b6a0838ee569dd732eaa7de8c640d3bde4bf416dbf0861d1083603960
+updated: 2017-12-14T11:29:32.487955+03:00
 imports:
 - name: github.com/abiosoft/semaphore
   version: 9d5d6764eda2187f2a7979395cf2d564f401d0b0
@@ -26,15 +26,15 @@ imports:
 - name: github.com/jsipprell/go-semaphore
   version: e3745e5247e61541c301c62ee264e26628c38d1a
 - name: github.com/kamilsk/semaphore
-  version: c5750178816f7f3e1dd981603ca557c3cfcc9c06
+  version: 78da205b16a8e62e5b56b3649b3e8a25e897c60a
 - name: github.com/marusama/semaphore
-  version: e5ac66c71eb1dc879fedf530873b26d0b301fc35
+  version: 04c7e8f687681174e3390c9de634626bfa1c4dd6
 - name: github.com/nicholasjackson/bench
   version: 39c3cb80881e351daac20452d3985fdbd7a8c5fa
   subpackages:
   - semaphore
 - name: github.com/opencoff/go-lib
-  version: ea60bcbac7c6f17b61bc45de8e269fe39a38730f
+  version: 37b326701f48160010a983473197ae5d707544a2
   subpackages:
   - sem
 - name: github.com/pivotal-golang/semaphore
@@ -60,7 +60,7 @@ imports:
 - name: github.com/vada-ir/semaphore
   version: 566ed412777737d9b810f167bdca75fd066d8440
 - name: golang.org/x/net
-  version: 894f8ed5849b15b810ae41e9590a0d05395bba27
+  version: d866cfc389cec985d6fda2859936a575a55a3ab6
   subpackages:
   - context
 testImports: []

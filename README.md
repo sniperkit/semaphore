@@ -26,7 +26,7 @@ You can install them by running the command `glide install`.
 - [x] [github.com/carlmjohnson/go-utils/semaphore](https://github.com/carlmjohnson/go-utils/tree/3990067/semaphore)
 - [x] [github.com/cognusion/semaphore](https://github.com/cognusion/semaphore)
 - [x] [github.com/dexterous/semaphore](https://github.com/dexterous/semaphore)
-- [x] [github.com/dropbox/godropbox/sync2.Semaphore](https://github.com/dropbox/godropbox/blob/236dc4f/sync2/semaphore.go)
+- [x] [github.com/dropbox/godropbox/sync2](https://github.com/dropbox/godropbox/blob/236dc4f/sync2/semaphore.go)
 - [x] [github.com/eapache/go-resiliency/semaphore](https://github.com/eapache/go-resiliency/blob/b1fe83b/semaphore)
 - [x] [github.com/jsipprell/go-semaphore](https://github.com/jsipprell/go-semaphore)
 - [ ] [github.com/marusama/semaphore](https://github.com/marusama/semaphore)

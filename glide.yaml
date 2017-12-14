@@ -15,10 +15,6 @@ import:
   subpackages:
   - semaphore
 - package: github.com/jsipprell/go-semaphore
-- package: golang.org/x/net
-  subpackages:
-  - context
-- package: github.com/kamilsk/semaphore
 - package: github.com/marusama/semaphore
 - package: github.com/nicholasjackson/bench
   subpackages:
@@ -39,3 +35,9 @@ import:
   subpackages:
   - semaphore
 - package: github.com/vada-ir/semaphore
+
+- package: github.com/kamilsk/semaphore
+  version: dev
+- package: golang.org/x/net
+  subpackages:
+  - context
