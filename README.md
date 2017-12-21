@@ -1,9 +1,9 @@
-> # semaphore/research
->
+> # semaphore/research [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Semaphore%20pattern%20implementation%20with%20a%20timeout%20of%20lock%2Funlock%20operations%20based%20on%20channels&url=https://github.com/kamilsk/semaphore&via=ikamilsk&hashtags=go,semaphore,throughput,limiter)
+> [![Analytics](https://ga-beacon.appspot.com/UA-109817251-2/semaphore/research?pixel)](https://github.com/igrigorik/ga-beacon)
 > Examined articles and packages.
 
 [![Patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/octolab)
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Articles
 
@@ -51,5 +51,3 @@ You can install them by running the command `glide install`.
 ## Notes
 
 - made with ❤️ by [OctoLab](https://www.octolab.org/)
-
-[![Analytics](https://ga-beacon.appspot.com/UA-109817251-2/semaphore/research)](https://github.com/igrigorik/ga-beacon)
